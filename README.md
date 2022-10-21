@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pranavpradhan007
+- 👀 I’m interested in cloud computing
+- 🌱 I’m currently learning AWS, machine learning, artificial intelligence
+- 📫 How to reach me - email- pranavpradhan00721@gmail.com
